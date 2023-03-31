@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\Lõputöö Kristo Koolma\obj\Debug\net6.0\Lõputöö Kristo Koolma.csproj.AssemblyReference.cache
+C:\Users\opilane\source\repos\Lõputöö Kristo Koolma\obj\Debug\net6.0\Lõputöö Kristo Koolma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\Lõputöö Kristo Koolma\obj\Debug\net6.0\Lõputöö Kristo Koolma.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Lõputöö Kristo Koolma\obj\Debug\net6.0\Lõputöö Kristo Koolma.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Lõputöö Kristo Koolma\obj\Debug\net6.0\Lõputöö Kristo Koolma.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Lõputöö Kristo Koolma\bin\Debug\net6.0\Lõputöö Kristo Koolma.exe
+C:\Users\opilane\source\repos\Lõputöö Kristo Koolma\bin\Debug\net6.0\Lõputöö Kristo Koolma.deps.json
+C:\Users\opilane\source\repos\Lõputöö Kristo Koolma\bin\Debug\net6.0\Lõputöö Kristo Koolma.runtimeconfig.json
+C:\Users\opilane\source\repos\Lõputöö Kristo Koolma\bin\Debug\net6.0\Lõputöö Kristo Koolma.dll
+C:\Users\opilane\source\repos\Lõputöö Kristo Koolma\bin\Debug\net6.0\Lõputöö Kristo Koolma.pdb
+C:\Users\opilane\source\repos\Lõputöö Kristo Koolma\obj\Debug\net6.0\Lõputöö Kristo Koolma.dll
+C:\Users\opilane\source\repos\Lõputöö Kristo Koolma\obj\Debug\net6.0\refint\Lõputöö Kristo Koolma.dll
+C:\Users\opilane\source\repos\Lõputöö Kristo Koolma\obj\Debug\net6.0\Lõputöö Kristo Koolma.pdb
+C:\Users\opilane\source\repos\Lõputöö Kristo Koolma\obj\Debug\net6.0\Lõputöö Kristo Koolma.genruntimeconfig.cache
+C:\Users\opilane\source\repos\Lõputöö Kristo Koolma\obj\Debug\net6.0\ref\Lõputöö Kristo Koolma.dll
